@@ -1,0 +1,7 @@
+"optimizer.pt" 
+"*/optimizer.pt" 
+optimizer.pt 
+*/optimizer.pt 
+**/checkpoint-*/optimizer.pt
+**/optimizer.pt*.pt
+**/checkpoint-*/

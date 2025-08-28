@@ -1,0 +1,17 @@
+{
+  "dataset_split": "train",
+  "total_files": 9988,
+  "successful_transcriptions": 9988,
+  "average_audio_duration": 3.0,
+  "average_transcription_length": 31.120044052863435,
+  "average_segments_per_file": 7.0,
+  "emotion_distribution": {
+    "neutral": 4709,
+    "joy": 1743,
+    "surprise": 1205,
+    "anger": 1109,
+    "sadness": 683,
+    "disgust": 271,
+    "fear": 268
+  }
+}

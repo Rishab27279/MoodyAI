@@ -1,0 +1,4 @@
+{
+  "accuracy": 1.0,
+  "classification_report": "              precision    recall  f1-score   support\n\n       anger     1.0000    1.0000    1.0000       153\n         joy     1.0000    1.0000    1.0000       163\n  melancholy     1.0000    1.0000    1.0000       173\n     neutral     1.0000    1.0000    1.0000       469\n    surprise     1.0000    1.0000    1.0000       150\n\n    accuracy                         1.0000      1108\n   macro avg     1.0000    1.0000    1.0000      1108\nweighted avg     1.0000    1.0000    1.0000      1108\n"
+}

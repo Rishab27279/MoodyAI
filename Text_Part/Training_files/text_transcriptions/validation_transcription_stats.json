@@ -1,0 +1,17 @@
+{
+  "dataset_split": "validation",
+  "total_files": 1108,
+  "successful_transcriptions": 1108,
+  "average_audio_duration": 3.0,
+  "average_transcription_length": 31.162454873646208,
+  "average_segments_per_file": 7.0,
+  "emotion_distribution": {
+    "neutral": 469,
+    "joy": 163,
+    "anger": 153,
+    "surprise": 150,
+    "sadness": 111,
+    "fear": 40,
+    "disgust": 22
+  }
+}

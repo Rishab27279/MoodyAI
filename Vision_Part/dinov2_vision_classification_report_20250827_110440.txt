@@ -1,0 +1,17 @@
+DINOV2 VISION-ONLY EMOTION CLASSIFIER - CLASSIFICATION REPORT
+============================================================
+Evaluation Date: 2025-08-27 11:04:40
+Model: DINOv2 vit_base_patch14_dinov2.lvd142m
+Total Samples: 1108
+
+              precision    recall  f1-score   support
+
+       anger     0.0541    0.0131    0.0211       153
+         joy     0.1250    0.0061    0.0117       163
+  melancholy     0.1250    0.0347    0.0543       173
+     neutral     0.4146    0.3625    0.3868       469
+    surprise     0.1355    0.5467    0.2172       150
+
+    accuracy                         0.2356      1108
+   macro avg     0.1708    0.1926    0.1382      1108
+weighted avg     0.2392    0.2356    0.2062      1108

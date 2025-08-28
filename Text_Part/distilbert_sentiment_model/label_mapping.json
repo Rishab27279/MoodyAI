@@ -1,0 +1,32 @@
+{
+  "id2label": {
+    "0": "anger",
+    "1": "joy",
+    "2": "melancholy",
+    "3": "neutral",
+    "4": "surprise"
+  },
+  "label2id": {
+    "anger": 0,
+    "joy": 1,
+    "melancholy": 2,
+    "neutral": 3,
+    "surprise": 4
+  },
+  "classes": [
+    "anger",
+    "joy",
+    "melancholy",
+    "neutral",
+    "surprise"
+  ],
+  "emotion_mapping": {
+    "sadness": "melancholy",
+    "fear": "melancholy",
+    "disgust": "melancholy",
+    "anger": "anger",
+    "joy": "joy",
+    "neutral": "neutral",
+    "surprise": "surprise"
+  }
+}
